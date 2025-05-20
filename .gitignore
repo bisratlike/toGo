@@ -1,0 +1,47 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build artifacts
+*.test
+*.out
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directories (remove the comment if you vendor dependencies)
+# /vendor/
+
+# Editor swap files and history
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment/credentials
+.env
+.env.*          # any other .env variants
+*.pem           # certificate files, keys
+*.key
+*.crt
+
+# Logs
+*.log
+
+# Coverage
+*.coverprofile
+
+# CI/CD artifacts
+coverage/
+build/
+dist/
