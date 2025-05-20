@@ -10,9 +10,7 @@ Create a .env file (if needed) based on env config
 
 Run the app:
 
-bash
-Copy
-Edit
+
 go run cmd/auth
 _service/main.go
 
