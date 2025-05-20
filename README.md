@@ -4,9 +4,7 @@ A basic starter project for building Go applications with REST API support.
 Setup
 Clone the repo:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/bisratlike/toGo
 Create a .env file (if needed) based on env config
 
