@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+*.zip
 
 # Test binary, build artifacts
 *.test
@@ -45,3 +46,8 @@ Thumbs.db
 coverage/
 build/
 dist/
+.sonar-project.properties
+# Temporary files
+tmp/
+# Go module files
+go.sum
