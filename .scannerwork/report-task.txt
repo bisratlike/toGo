@@ -1,0 +1,7 @@
+organization=bisratlike
+projectKey=bisratlike_toGo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.63733
+dashboardUrl=https://sonarcloud.io/dashboard?id=bisratlike_toGo
+ceTaskId=AZcJuGquz5Ufnr8NyQgX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZcJuGquz5Ufnr8NyQgX
